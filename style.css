@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+
+.line {
+    height: 6px;
+    background-color: darkcyan;
+    width: 70px;
+    margin:auto;
+    padding-top: 2px;
+    text-align: center;
+}
+
+h1 {
+    font-family: broadway;
+    font-size: 60px;
+    color: darkcyan;
+}
